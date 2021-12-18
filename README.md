@@ -25,22 +25,21 @@
 
 ---
 
-### 코인 거래소(Android)
+### 코인 거래소(Kotlin)![146633610-0c9a8fe5-a97c-4ccd-a224-52aca0280e52](https://user-images.githubusercontent.com/80373743/146633751-28618a5e-586f-4816-a502-b318886fce5c.png)
 
 
-
-### 코인 거래소(Kotlin)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/17bd74ee-6e57-4211-8b83-2c683b4cacc5/Untitled.png)
+![image](https://user-images.githubusercontent.com/80373743/146633610-0c9a8fe5-a97c-4ccd-a224-52aca0280e52.png)
 
 ### 코인 거래소 리스트
 
-![KakaoTalk_20211025_164144683.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a9ed500f-481b-4d4c-8519-0308e81e8e18/KakaoTalk_20211025_164144683.png)
+![KakaoTalk_20211025_164144683](https://user-images.githubusercontent.com/80373743/146633637-503a1fa2-f953-44eb-912f-14bf06b54b27.png)
+![KakaoTalk_20211025_164144429](https://user-images.githubusercontent.com/80373743/146633679-0ccb66b8-e792-4b6c-b97c-cf5ac3c6e0ac.png)
 
-![KakaoTalk_20211025_164144429.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/03572c39-5ca7-4f18-9fea-d09dfc67ca57/KakaoTalk_20211025_164144429.png)
 
 ### 내 지갑
 
-![KakaoTalk_20211025_164144776.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c1927785-592e-4a6b-aa1c-101f87bd45b3/KakaoTalk_20211025_164144776.png)
+![KakaoTalk_20211025_164144776](https://user-images.githubusercontent.com/80373743/146633709-268570de-55ca-4d04-b2ac-aa47235ced07.png)
 
 ### 코인 동향
+
+![KakaoTalk_20211025_164144870](https://user-images.githubusercontent.com/80373743/146633714-8beac888-d488-4886-879a-429a7851067c.png)
